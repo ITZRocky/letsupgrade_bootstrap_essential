@@ -1,0 +1,29 @@
+.my-container{
+    height: 100vh;
+    background-color: rgb(90, 90, 177);
+}
+
+.block{
+    background-color:coral;
+    min-height: 150px;
+    height: auto;
+}
+.blocko{
+    background-color:cornsilk;
+    min-height: 150px;
+    height: auto;
+}
+.blockol{
+    background-color:burlywood;
+    min-height: 150px;
+    height: auto;
+}
+.footer{
+    color: burlywood;
+    font-weight: bold;
+    padding: 10px 0 0 800px;
+    margin-left: 300px;
+    margin-top: 80px;
+    margin-bottom: -100px;
+    font-size: 25px;
+}
