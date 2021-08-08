@@ -1,0 +1,25 @@
+*{
+    font-family: 'Righteous', cursive;  
+}
+
+.card{
+    margin-bottom: 40px;
+    color: white;
+}
+
+.cap{
+    text-align: center;
+    color: crimson;
+}
+footer p{
+    text-align: center;
+    font-weight: bold;
+    color: palevioletred;
+    font-size: 25px;
+}
+
+img{
+    margin-top: 15px;
+    border-radius: 20px;
+    height: 225px;
+}
